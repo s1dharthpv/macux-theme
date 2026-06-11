@@ -1,0 +1,11 @@
+[submodule "WhiteSur-gtk-theme"]
+	path = WhiteSur-gtk-theme
+	url = https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+
+[submodule "WhiteSur-icon-theme"]
+	path = WhiteSur-icon-theme
+	url = https://github.com/vinceliuice/WhiteSur-icon-theme.git
+
+[submodule "McMojave-cursors"]
+	path = McMojave-cursors
+	url = https://github.com/vinceliuice/McMojave-cursors.git
