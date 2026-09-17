@@ -6,6 +6,6 @@
 	path = WhiteSur-icon-theme
 	url = https://github.com/vinceliuice/WhiteSur-icon-theme.git
 
-[submodule "McMojave-cursors"]
-	path = McMojave-cursors
-	url = https://github.com/vinceliuice/McMojave-cursors.git
+[submodule "WhiteSur-cursors"]
+	path = WhiteSur-cursors
+	url = https://github.com/vinceliuice/WhiteSur-cursors.git
