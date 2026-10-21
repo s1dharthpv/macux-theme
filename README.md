@@ -86,7 +86,9 @@ SF Pro block in `install.sh`'s font step and drop your own `.otf` files in
 ## License
 
 This repo is just install/uninstall glue plus a settings snapshot - no
-theme code of its own. Everything it installs keeps its upstream license:
+theme code of its own. That glue (`install.sh`, `uninstall.sh`, `dconf/`) is
+released under the [MIT License](LICENSE). Everything it installs keeps its
+upstream license:
 
 - [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme),
   [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme),
